@@ -1,5 +1,5 @@
 {
-    "name": "an3/oauth2-server-laravel",
+    "name": "an3/oauth-laravel-couchdb",
     "description": "An OAuth 2.0 bridge for Laravel and Lumen",
     "keywords": ["oauth2", "oauth", "server", "api", "laravel", "lumen"],
     "license": "MIT",
@@ -49,7 +49,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-mongodb": "5.0-dev"
+            "dev-couchdb": "1.0.0"
         }
     },
     "minimum-stability": "dev",
